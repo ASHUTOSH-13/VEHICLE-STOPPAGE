@@ -11,12 +11,6 @@ This project is a GPS tracking map that visualizes stoppage points along a path.
 
 ## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/safdaraliniazi/Vehicle-Stoppage-Identification-and-Visualization
-
-```
 2. Navigate to the project directory::
 
 ```bash
@@ -28,7 +22,9 @@ cd <project-directory>
 ```bash
 npm run dev
 ```
+
 ## Technologies Used
+
 - React
 - React Leaflet
 - Leaflet
@@ -46,14 +42,12 @@ npm run dev
 - The `README.md` file is the project README.
 - The `LICENSE` file contains the project license information.
 
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Links and Deployment
 
-- [Project Repository](https://github.com/safdaraliniazi/Vehicle-Stoppage-Identification-and-Visualization)
 - [Live Demo](https://vehicle-stoppage-identification-and-visualization.vercel.app/)
 
 ## 🚀 Deployed with Vercel
@@ -62,7 +56,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- Safdar Ali Niazi
-- Email: 787alisniazi787@gmail.com
-- LinkedIn: [Niazi](https://www.linkedin.com/in/safdar-ali-niazi-5ab79a227/)
-
+- ASHUTOSH BHATT
+- Email: ashutoshkalash03@gmail.com
